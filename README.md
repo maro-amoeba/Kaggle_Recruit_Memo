@@ -1,0 +1,2 @@
+# Kaggle_Recruit_Memo
+Kaggleリクルートコンペのノートブック
